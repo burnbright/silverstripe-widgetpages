@@ -1,0 +1,22 @@
+{
+    "name": "burnbright/silverstripe-widgetpages",
+    "description": "Build pages using widgets. Small pieces of content and functionality.",
+    "type": "silverstripe-module",
+    "keywords" : ["widgets","content","page","cms"],
+    "require": {
+        "silverstripe/framework": "3.1.*",
+        "silverstripe/cms": "3.1.*",
+        "silverstripe/widgets": "dev-master",
+        "ajshort/silverstripe-gridfieldextensions" : "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy Shipman",
+            "email": "jeremy@burnbright.net"
+        }
+    ],
+    "extra" : {
+        "installer-name": "widgetpages"
+    }
+}
