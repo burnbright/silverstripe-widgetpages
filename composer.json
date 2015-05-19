@@ -7,7 +7,7 @@
         "silverstripe/framework": "3.1.*",
         "silverstripe/cms": "3.1.*",
         "silverstripe/widgets": "dev-master",
-        "ajshort/silverstripe-gridfieldextensions" : "dev-master"
+        "silverstripe-australia/silverstripe-gridfieldextensions" : "dev-master"
     },
     "license": "MIT",
     "authors": [
